@@ -15,5 +15,19 @@
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="knych@knych.cthp0nqoaepa.eu-north-1.rds.amazonaws.com" uuid="a8761aa7-b135-4359-bc49-2a2415cdbbf7">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://knych.cthp0nqoaepa.eu-north-1.rds.amazonaws.com:3306/knych</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="knych@knych.cthp0nqoaepa.eu-north-1.rds.amazonaws.com [2]" uuid="9761d3f2-1c9d-43c5-bf52-22cf6595633f">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://knych.cthp0nqoaepa.eu-north-1.rds.amazonaws.com:3306/knych</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
